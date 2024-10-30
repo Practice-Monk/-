@@ -1,6 +1,9 @@
 package com.bugfe.arraylist;
 
-
+/***
+ * 实现接口和方法
+ * @param <E>
+ */
 public class MyArrayList<E> implements IList<E>{
     Object[] elementData;
     static final int DEFAULT_CAPACITY = 10;

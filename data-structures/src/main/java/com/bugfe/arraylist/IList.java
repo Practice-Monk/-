@@ -1,6 +1,9 @@
 package com.bugfe.arraylist;
 
-
+/***
+ * 自定义list接口和方法
+ * @param <E>
+ */
 public interface IList<E> {
     /**
      * 获取元素个数
