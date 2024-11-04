@@ -1,11 +1,5 @@
-package com.atguigu.datastructure;
+package com.bugfe.datastructure;
 
-/**
- * 包名:com.atguigu.datastructure
- *
- * @author Leevi
- * 日期2023-09-24  11:26
- */
 public interface IStack<E> {
     /**
      * 压栈

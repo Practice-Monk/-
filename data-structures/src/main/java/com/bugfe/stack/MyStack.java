@@ -1,11 +1,5 @@
-package com.atguigu.datastructure;
+package com.bugfe.datastructure;
 
-/**
- * 包名:com.atguigu.datastructure
- *
- * @author Leevi
- * 日期2023-09-24  11:28
- */
 public class MyStack<E> implements IStack<E> {
     int DEFAULT_CAPACITY = 10;
     Object[] elementData;
