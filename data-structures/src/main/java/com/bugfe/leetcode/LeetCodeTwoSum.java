@@ -2,6 +2,9 @@ package com.bugfe.leetcode;
 
 import java.util.HashMap;
 
+/**
+ * 两数之和
+ */
 public class LeetCodeTwoSum {
     /**
      * 暴力求解,两轮遍历
