@@ -1,6 +1,9 @@
 package com.bugfe.linkedList;
 
-
+/**
+ * MyLinkedLIst
+ * @param <E>
+ */
 public class MyLinkedList3<E> implements ILinkedList<E>{
     private Node<E> vHead;
     private Node<E> vTail;
