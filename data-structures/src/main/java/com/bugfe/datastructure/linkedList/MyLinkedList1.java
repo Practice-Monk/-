@@ -1,4 +1,4 @@
-package com.bugfe.linkedList;
+package com.bugfe.datastructure.linkedList;
 
 public class MyLinkedList1<E> implements ILinkedList<E> {
     private static class Node<E>{

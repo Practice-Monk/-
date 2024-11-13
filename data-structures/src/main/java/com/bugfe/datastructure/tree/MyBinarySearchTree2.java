@@ -1,4 +1,4 @@
-package com.bugfe.tree;
+package com.bugfe.datastructure.tree;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.bugfe.arraylist;
+package com.bugfe.datastructure.arraylist;
 
 /***
  * 实现接口和方法

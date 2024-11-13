@@ -1,4 +1,4 @@
-package com.bugfe.linkedList;
+package com.bugfe.datastructure.linkedList;
 
 public interface ILinkedList<E> {
     /**

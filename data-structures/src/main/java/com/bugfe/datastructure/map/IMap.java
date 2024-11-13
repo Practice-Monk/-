@@ -1,4 +1,4 @@
-package com.bugfe.map;
+package com.bugfe.datastructure.map;
 
 public interface IMap<K,V> {
     /**

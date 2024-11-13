@@ -1,4 +1,4 @@
-package com.bugfe.tree;
+package com.bugfe.datastructure.tree;
 
 /**
  * 1. 定义一个Node类，表示二叉搜索树上的一个节点

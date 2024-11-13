@@ -1,4 +1,4 @@
-package com.bugfe.queue;
+package com.bugfe.datastructure.queue;
 
 /**
  *  队

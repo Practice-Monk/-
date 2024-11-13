@@ -1,4 +1,4 @@
-package com.bugfe.map;
+package com.bugfe.datastructure.map;
 
 
 public class MyHashMap<K,V> implements IMap<K,V> {
