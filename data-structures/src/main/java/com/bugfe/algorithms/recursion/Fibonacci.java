@@ -24,7 +24,7 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        System.out.println(fib(8));
+        System.out.println(fib(8));  // fib(8) = fib(6) + fib(7) = fib(4) + fib(5) + fib(5) + fib(6)
     }
 
 
