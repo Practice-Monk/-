@@ -1,6 +1,7 @@
 package com.bugfe.algorithms.recursion;
 
 /**
+ * 递归经典案例
  * 斐波那契数列： 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377......
  * n=0 fib(0),
  * n=1 或者 n=2  fib(1),
